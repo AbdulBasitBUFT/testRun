@@ -1,3 +1,5 @@
+// in this script i import a array of object
+
 ["table",
 {
 "class" : "MyTable",
