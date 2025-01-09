@@ -57,3 +57,5 @@
 ]
 ]
 ]
+
+// in this script i import a JSON template
